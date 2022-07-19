@@ -1,6 +1,6 @@
 # HigherLower
 Juego HigherLower, en python3, compara los seguidores que tienen famosos en instagram, y tienes que adivinar cual tiene mas que el otro
-
+Guarda el puntaje anterior segun vayas adivinando!
 
 Didáctico, para aprender sobre listas, loops, diccionarios, etc..
 
